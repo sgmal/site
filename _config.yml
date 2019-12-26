@@ -3,8 +3,13 @@ name: 'Singapore Malayalees'
 description: 'News, Events and More...'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-url: 'https://sgmalayalees.github.io/'
-baseurl: ''
+
+# If you are building a GitHub project page then use these settings:
+# url: "https://www.yourdomain.com/site2/"
+# baseurl: "/site2"
+
+url: 'https://sgmalayalees.github.io/site/'
+baseurl: '/site'
 disqus: 'singaporemalayalees-com'
 email: 'team.singaporemalayalees@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
