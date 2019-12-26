@@ -50,7 +50,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: sgmalayalees
       avatar: /assets/images/avatar1.jpg
       
   # all pages
