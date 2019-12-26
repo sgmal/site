@@ -21,13 +21,13 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    gini:
-      name:           Gini
-      site:           https://www.iamgini.com
-      avatar:         /assets/images/avatar-gini.png
-      bio:            "Hi, I am Gini"
-      email:          net.gini@gmail.com
-      twitter:        https://twitter.com/ginigangadharan
+    traveldesk:
+      name:           traveldesk
+      site:           https://singaporemalayalees.com
+      avatar:         /assets/images/avatar-traveldesk.png
+      bio:            "We are traveldesk"
+      email:          team.singaporemalayalees@gmail.com
+      twitter:        https://twitter.com/SG_Malayalees
 
     sgmalayalees:
       name:           NewsDesk
