@@ -5,9 +5,6 @@ categories: [ Singapore ]
 image: assets/images/demo1.jpg
 author: sgmalayalees
 ---
-
-We are **Singapore Malayalees** !
-
 Explore the liveness and vibes of Singapore. We feature most of the Singapore events and happening around, especially Indian and Malayalee events.
 
 ## Go everywhere you want
