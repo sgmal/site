@@ -1,7 +1,7 @@
 # Site
 name: 'Singapore Malayalees'
 description: 'News, Events and More...'
-logo: 'assets/images/logo.png'
+logo: 'assets/images/sgmalayalees-logo-v1.png'
 favicon: 'assets/images/favicon.ico'
 
 # If you are building a GitHub project page then use these settings:
@@ -37,7 +37,7 @@ authors:
     sgmalayalees:
       name:           NewsDesk
       site:           https://singaporemalayalees.com
-      avatar:         /assets/images/avatar-sgmalayalees.jpg
+      avatar:         /assets/images/avatar-sgmalayalees-310x310.png
       bio:            "News, Events and More...!"
       email:          team.singaporemalayalees@gmail.com
       twitter:        https://twitter.com/SG_Malayalees
