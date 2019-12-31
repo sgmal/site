@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Singapore !"
 categories: [ Singapore ]
-image: assets/images/singapore-night-restaurant-food.jpg
+image: assets/images/2019/singapore-night-restaurant-food.jpg
 author: sgmalayalees
 ---
 Explore the vibes of Singapore. We feature most of the Singapore events and happenings around, especially Malayalee and Indian events.

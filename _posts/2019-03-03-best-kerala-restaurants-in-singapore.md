@@ -3,7 +3,7 @@ layout: post
 title:  "Best Kerala Restaurants in Singapore"
 author: sgmalayalees
 categories: [ Food, Kerala ]
-image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+image: assets/images/2019/kerala-fish-curry-01-750x500.jpg
 tags: [Kerala Restaurants in Singapore, Malayalee Food, Kerala Food, Indian Food]
 ---
 There are lots of Kerala Restaurants in Singapore and most of them are famous for their mouth watering dishes. Since this is everyone's topic, we thought to feature some of them here.
@@ -14,8 +14,6 @@ There are lots of Kerala Restaurants in Singapore and most of them are famous fo
 ## Swaadhisht, 47 Chander Rd
 
 **$$**$
-
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
 
 Located in Little India, **Swaadhisht Authentic Kerala Cuisine** is good choice for Kerala Food lovers.
 
@@ -28,11 +26,12 @@ Located in Little India, **Swaadhisht Authentic Kerala Cuisine** is good choice 
 
 **$$**$
 
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
-
 **Premaas** is famous for great taste and ambience. 
 
 **Address** : 6 Dalhousie Ln, Singapore 209675
+
+
+![swaadisht]({{ site.baseurl }}/assets/images/2019/swadish-restaurant-singapore-01.png)
 
 
 ## Kerala Cuisine, 48 Serangoon Road
@@ -47,8 +46,6 @@ Kerala Cuisine Restaurant is famous for their Fish head curry.
 ## Spice Junction, 126 Race Course Rd
 
 **$$**$
-
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
 
 A good ambience at Spice Juncton is always attracting food lovers.
 

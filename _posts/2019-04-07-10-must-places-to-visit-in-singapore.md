@@ -3,7 +3,7 @@ layout: post
 title:  "10 Must Places to Visit in Singapore"
 author: sgmalayalees
 categories: [ Travel ]
-image: assets/images/singapore-places-to-visit-01.jpg
+image: assets/images/2019/MarinaBaySands-750x500.jpg
 tags: [Singapore Places, Tourist Places in Singapore, Singapore Places of Interest]
 ---
 Singapore is an amazing country and one of the top destinations in Asia. Here we are featuring the 10 best places to visit in Singapore.
@@ -14,19 +14,21 @@ Enjoy stunning look of skyscrappers with awesome skyline view. Spend some time a
 
 ## 2. Singapore Flyer
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Enjoy the best view from top of Singapore Flyer, the giant observation wheel. The Flyer has an overall height of 165 metres and located in Marina Bay Street Circuit.
 
-## 3. Clarke Quay, Glitz and Lights
+[Website](https://www.singaporeflyer.com/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 3. Clarke Quay
+
+Clarke quay is a great place to spend night. A colourful, cheerful place full of activities and a lots of bars & restaurants. Also enjoy a River Cruise from Clarke Quay (Fort Canning jetty) to cruise along Singapore River.
 
 ## 4. Resorts World Sentosa
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+An ultimate destination, Resorts World Sentosa Singapore, is home to six unique hotels, the Asian flagship spa of a world-renowned spa brand, an exclusive casino, as well as four world-class attractions: Universal Studios Singapore, S.E.A. Aquarium, Dolphin Island and Adventure Cove Waterpark. (Entry fee applicable)
 
 ## 5. Siloso Beach
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A small but beautiful beach at Sentosa. The place is easily reachable via Sentosa Express and one of the best place kids can enjoy.
 
 ## 6. Gardens by the Bay
 
@@ -42,12 +44,15 @@ Spans about 70 acres, Singapore Zoo is home for 300 over species of animals. You
 
 ## 8. Jurong Bird Park
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Anther cool place to visit; Jurong Bird Park is world's larget bird park. Arranged in 20 hectare of land, Jurong Bird Park housing over 8,000 birds from more than 600 species.
 
 ## 9. Chinatown
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A great place for experiencing the culture and ambience; Chinatown Food Street, with its restaurants serving traditional fare like Hainanese chicken rice, noodles and satay. Souvenir shops and indie boutiques fill the area, offering clothes, crafts and antiques, while Club Street is full of trendy wine bars. 
 
-## 10. Orchard, for Shopping Lovers
+## 10. Orchard
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A great place for your shopping needs as the area is about 2KM spanned and you can find all kind of shops around. Also one of the best decorated area to enjoy a night view.
+
+
+

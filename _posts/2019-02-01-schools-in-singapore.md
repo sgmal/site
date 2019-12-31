@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "Schools in Singapore - A comprehensive List for Foreigners."
+title:  "Schools in Singapore."
 categories: [ Education, Expats ]
-image: assets/images/3.jpg
+image: assets/images/2019/australian-international-school-singapore-01.png
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We are in the midst of preparing the same, stay tuned.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Reference
+- [25 Best Schools in Singapore](https://www.edarabia.com/schools/singapore/)
+- [List of schools in Singapore](https://en.wikipedia.org/wiki/List_of_schools_in_Singapore)
+- [List of international schools in Singapore](https://en.wikipedia.org/wiki/List_of_international_schools_in_Singapore)
+- [List of Private Schools in Singapore](https://www.moe.gov.sg/education/private-education/list-of-private-schools)
+- [Lower Cost International Schools in Singapore](https://www.sassymamasg.com/learn-budget-international-schools-singapore-low-school-fees/)
