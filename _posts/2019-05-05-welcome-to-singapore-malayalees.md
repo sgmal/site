@@ -5,7 +5,7 @@ categories: [ Singapore ]
 image: assets/images/singapore-night-restaurant-food.jpg
 author: sgmalayalees
 ---
-Explore the vibes of Singapore. We feature most of the Singapore events and happening around, especially Malayalee and Indian events.
+Explore the vibes of Singapore. We feature most of the Singapore events and happenings around, especially Malayalee and Indian events.
 
 ## Go anywhere you want
 
