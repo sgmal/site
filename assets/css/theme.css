@@ -206,7 +206,6 @@ a.text-dark:hover {
 	margin-right:2rem;
 	font-size:1.55rem;
 	font-family:inherit;
-	//"Georgia","Times New Roman",serif;
 }
 .dropdown-item {
 	font-weight:400;
@@ -655,10 +654,10 @@ footer {
 article {
 	font-size:20px;
 	line-height:1.86;
-    font-family:Lora;
+    font-family: 'Rubik', "QuickSand", Lora;
 }
 .article-headline {
-    font-family: Georgia,Times,"Times New Roman",serif;
+    font-family: 'Rubik', "QuickSand", Georgia,Times,"Times New Roman",serif;
     font-size: 3.2rem;
     font-weight: 400;
     line-height: 1.15;
@@ -675,7 +674,7 @@ article blockquote {
 }
 article blockquote:before {
 	content:"“";
-	font-family:Georgia;
+	font-family:'Rubik', "QuickSand", Georgia;
 	font-size:8rem;
 	margin:-1rem 2rem 0 -3.9rem;
 	position:absolute;
