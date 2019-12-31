@@ -2,14 +2,14 @@
 layout: post
 title:  "Welcome to Singapore !"
 categories: [ Singapore ]
-image: assets/images/demo1.jpg
+image: assets/images/singapore-night-restaurant-food.jpg
 author: sgmalayalees
 ---
-Explore the liveness and vibes of Singapore. We feature most of the Singapore events and happening around, especially Indian and Malayalee events.
+Explore the vibes of Singapore. We feature most of the Singapore events and happening around, especially Malayalee and Indian events.
 
-## Go everywhere you want
+## Go anywhere you want
 
-Singapore is well known for its famous efficient public transport system. You can reach wherever you want to go by bus, MRT, LRT etc. Not done, everything is connected as you walk less to reach your destination.
+Singapore is well known for its efficient public transport system. You can reach wherever you want to go, by bus, MRT, LRT etc. Not done, everything is connected as you walk less to reach your destination.
 
 ## Shopping in the Green City
 

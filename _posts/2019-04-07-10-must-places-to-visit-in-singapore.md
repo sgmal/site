@@ -3,7 +3,7 @@ layout: post
 title:  "10 Must Places to Visit in Singapore"
 author: sgmalayalees
 categories: [ Travel ]
-image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+image: assets/images/singapore-places-to-visit-01.jpg
 tags: [Singapore Places, Tourist Places in Singapore, Singapore Places of Interest]
 ---
 Singapore is an amazing country and we one of top destination in Asia. Here we are featuring the best 10 places to visit in Singapore.
