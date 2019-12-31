@@ -1,9 +1,9 @@
 ---
-title: "Malayali Organizations in Singapore"
-layout: page-sidebar
-permalink: "/malayali-organizations-in-singapore"
-# image: "/assets/images/screenshot.jpg"
-comments: false
+layout: post
+title:  "Malayali Organizations in Singapore"
+author: sgmalayalees
+categories: [ Singapore, Malayalees ]
+image: assets/images/2.jpg
 ---
 Singapore is a very small country but we have a lot of active organizations and associations here in Singapore to support Malayalee community.
 
