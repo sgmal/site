@@ -2,7 +2,7 @@
 layout: post
 title:  "Where to by Indian Groceries in Singapore"
 author: sgmalayalees
-categories: [ Jekyll, tutorial ]
+categories: [  Singapore, Places  ]
 image: assets/images/12.jpg
 tags: [featured]
 ---

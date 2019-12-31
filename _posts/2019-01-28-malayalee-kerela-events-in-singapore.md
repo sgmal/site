@@ -2,7 +2,7 @@
 layout: post
 title:  "Malayalee Events in Singapore"
 author: sgmalayalees
-categories: [ Jekyll, tutorial ]
+categories: [  Singapore, Places  ]
 image: assets/images/1.jpg
 tags: [featured]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Could we reinvent the charm of old cities"
 author: sgmalayalees
-categories: [ Jekyll, tutorial ]
+categories: [ Singapore, Places ]
 image: assets/images/home.jpg
 tags: [sticky]
 ---

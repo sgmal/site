@@ -2,7 +2,7 @@
 layout: post
 title:  "Indian Celebrations in Singapore"
 author: sgmalayalees
-categories: [ Jekyll, tutorial ]
+categories: [  Singapore, Places  ]
 image: assets/images/6.jpg
 tags: featured
 ---
