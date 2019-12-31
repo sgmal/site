@@ -4,7 +4,8 @@ title:  "Best Kerala Restaurants in Singapore"
 author: sgmalayalees
 categories: [ Food, Kerala ]
 image: assets/images/2019/kerala-fish-curry-01-750x500.jpg
-tags: [Kerala Restaurants in Singapore, Malayalee Food, Kerala Food, Indian Food]
+tags: [Kerala Restaurants in Singapore, Malayalee Food, Kerala Food, Indian Food, featured]
+
 ---
 There are lots of Kerala Restaurants in Singapore and most of them are famous for their mouth watering dishes. Since this is everyone's topic, we thought to feature some of them here.
 
