@@ -8,7 +8,7 @@ favicon: 'assets/images/favicon.ico'
 # url: "https://www.yourdomain.com/site2/"
 # baseurl: "/site2"
 
-url: 'http://dev.singaporemalayalees.com'
+url: 'https://dev.singaporemalayalees.com'
 baseurl: ''
 disqus: 'singaporemalayalees-com'
 email: 'team.singaporemalayalees@gmail.com'
