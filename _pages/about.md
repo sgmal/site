@@ -2,7 +2,7 @@
 title: "About"
 layout: page-sidebar
 permalink: "/about"
-# image: "/assets/images/screenshot.jpg"
+image: "/assets/images/2019/MarinaBaySands-750x500.jpg"
 comments: false
 ---
 **Singapore !** One of the finest cities in the world...
